@@ -1,6 +1,6 @@
 # goober-notes
 
-This is a note 📝 taking node app, which is completely console based. I will work on the web 🕸 server part once I get the time ⌚. This is part of my [#100DaysOfCode](www.100daysofcode.com) 👨🏻‍💻 challenge.<br>
+This is a note 📝 taking node app, which is completely console based. I will work on the web 🕸 server part once I get the time ⌚. This is part of my [#100DaysOfCode](http://www.100daysofcode.com/) 👨🏻‍💻 challenge.<br>
 Just so you know, goober is a character 😎 from BoJack Horsemen 🐴. goober-notes rhymes with a popular open source system for managing containerized applications 😜.
 
 ## Setup
