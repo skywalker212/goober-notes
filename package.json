@@ -1,0 +1,29 @@
+{
+  "name": "goober-notes",
+  "version": "1.0.0",
+  "description": "a note taking app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skywalker212/goober-notes.git"
+  },
+  "keywords": [
+    "note",
+    "node",
+    "html",
+    "css"
+  ],
+  "author": "Akash Gajjar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skywalker212/goober-notes/issues"
+  },
+  "homepage": "https://github.com/skywalker212/goober-notes#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "yargs": "^10.0.3"
+  }
+}
