@@ -24,6 +24,6 @@
   "homepage": "https://github.com/skywalker212/goober-notes#readme",
   "dependencies": {
     "lodash": "^4.17.4",
-    "yargs": "^10.0.3"
+    "yargs": "^17.7.1"
   }
 }
